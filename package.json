@@ -1,6 +1,6 @@
 {
   "name": "zlb-cli",
-  "version": "1.0.4",
+  "version": "1.0.8",
   "description": "A simple CLI for scaffolding Vue.js projects.",
   "bin": {
     "zlb": "bin/zlb",
@@ -22,15 +22,15 @@
   "dependencies": {
     "async": "^3.1.0",
     "chalk": "^2.4.2",
-    "commander": "^2.20.0",
+    "commander": "^2.20.3",
     "consolidate": "^0.15.1",
     "download-git-repo": "^2.0.0",
-    "handlebars": "^4.1.2",
-    "inquirer": "^6.4.1",
+    "handlebars": "^4.4.3",
+    "inquirer": "^6.5.2",
     "metalsmith": "^2.3.0",
     "minimatch": "^3.0.4",
     "ora": "^3.4.0",
-    "rimraf": "^2.6.3",
+    "rimraf": "^2.7.1",
     "user-home": "^2.0.0"
   }
 }
